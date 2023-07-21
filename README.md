@@ -1,6 +1,6 @@
 # basic-calculator
 
-Link : https://Calculator-Using-HTMLCSS-and-JS.saikumar2910.repl.co
+Link : https://basic-calculator-using-html-css-js.netlify.app/
 
 Techstack used:
 # 1. HTML
